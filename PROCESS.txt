@@ -1,0 +1,4 @@
+use mapbox for creating map
+as logic is always written in javascript
+so here we will create a function that will update the data
+, the function will get data using fetch api
